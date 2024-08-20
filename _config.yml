@@ -1,13 +1,14 @@
 title: Roco Analytics # your name (or website title) here
-subtitle: #Owner/Operator: Robert Rodriguez# 
 logo: "/images/DSC09074.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  #Owner/Operator: Robert Rodriguez# 
   Dynamic and results-oriented Senior Staff Data Analyst with over a decade of experience in functional data 
   platform building and generating strategic insights.
   <br><br>
   Expertise in SQL, executive analytics, and leading product growth 
   teams. Adept at transforming raw data into actionable intelligence, influencing roadmap decisions, and driving 
-  organizational revenue growth. 
+  organizational revenue growth.
+  <br><br>
   <a href="https://www.linkedin.com/in/robert-rodriguez-3a802922/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
