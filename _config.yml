@@ -1,5 +1,5 @@
 title: Roco Analytics # your name (or website title) here
-logo: "/images/DSC09074.jpg?raw=true" # your photo (or logo) here
+logo: "/images/DSC09074.jpg?raw=true style="width=50;" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Owner/Operator: Robert Rodriguez
   <br><br>
@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   organizational revenue growth.
   <br><br>
   <a href="https://www.linkedin.com/in/robert-rodriguez-3a802922/">View My LinkedIn Profile</a> 
-  <br><be>
+  <br><br>
   <img src ="/images/RocoLogo.png?raw=true" alt="RocoLogo" style="width=50;"/>
   
 remote_theme: pages-themes/minimal@v0.2.0
