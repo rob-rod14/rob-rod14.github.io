@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/robert-rodriguez-3a802922/">View My LinkedIn Profile</a> 
   <br><be>
-  <img src ="/images/RocoLogo.png?raw=true" alt="RocoLogo" style="width=150p;"/>
+  <img src ="/images/RocoLogo.png?raw=true" alt="RocoLogo" style="width=50;"/>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
