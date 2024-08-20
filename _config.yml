@@ -11,8 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   organizational revenue growth.
   <br><br>
   <a href="https://www.linkedin.com/in/robert-rodriguez-3a802922/">View My LinkedIn Profile</a> 
-  <br><be>
-  ![RocoLogo]("/images/RocoLogo.png?raw=true") # Rocologo 
+  <br><br>
+  ![RocoLogo](/images/RocoLogo.png?raw=true) 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
