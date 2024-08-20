@@ -1,14 +1,15 @@
-title: Robert Rodriguez # your name (or website title) here
+title: Roco Analytics # your name (or website title) here
+subtitle: Robert Rodriguez # your name (or website title) here
 logo: "/images/DSC09074.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-Dynamic and results-oriented Senior Staff Data Analyst with over a decade of experience in functional data 
-platform building and generating strategic insights. Expertise in SQL, executive analytics, and leading product growth 
-teams. Adept at transforming raw data into actionable intelligence, influencing roadmap decisions, and driving 
-organizational revenue growth. 
+  Dynamic and results-oriented Senior Staff Data Analyst with over a decade of experience in functional data 
+  platform building and generating strategic insights. Expertise in SQL, executive analytics, and leading product growth 
+  teams. Adept at transforming raw data into actionable intelligence, influencing roadmap decisions, and driving 
+  organizational revenue growth. 
   <a href="https://www.linkedin.com/in/robert-rodriguez-3a802922/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: G-YWX0CLZBHJ # your Google Analytics tracking ID here
+google_analytics: UA-0000-0 # your Google Analytics tracking ID here
 
